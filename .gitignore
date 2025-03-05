@@ -1,0 +1,4 @@
+env/
+__pycache__/
+detected_fast_flags.json
+fast_flags_detector.log
